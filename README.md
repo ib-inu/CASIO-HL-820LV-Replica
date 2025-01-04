@@ -23,6 +23,4 @@ A web-based replica of the CASIO HL-820LV calculator, built to practice JavaScri
 
 
 
-![Casio-HL-820LV-hold](https://github.com/user-attachments/assets/daebe636-3290-4d7e-bb75-ddcb221884a1)
-
 
